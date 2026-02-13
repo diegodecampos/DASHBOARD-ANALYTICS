@@ -1,0 +1,20 @@
+# ==============================================================================
+# 📦 DASHBOARD ANALYTICS - LISTA DE DEPENDÊNCIAS
+# ==============================================================================
+# Versão: 1.0.0
+# Comando para instalar: pip install -r requirements.txt
+
+# --- Manipulação e Engenharia de Dados ---
+pandas      # Processamento de DataFrames e leitura de CSV
+numpy       # Operações matemáticas de alta performance
+
+# --- Visualização e Interface ---
+plotly      # Engine de gráficos interativos de alta fidelidade
+dash        # Framework web para construção do dashboard
+
+# --- Motor Estatístico ---
+statsmodels # Necessário para cálculos de regressão linear (OLS)
+
+# ==============================================================================
+# ✅ Todas as bibliotecas acima são fundamentais para o funcionamento do app.
+# ==============================================================================
